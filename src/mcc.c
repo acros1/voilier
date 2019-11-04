@@ -1,4 +1,4 @@
-#include "mcc.h"
+#include "../include/mcc.h"
 
 void change_position(int time) {
 

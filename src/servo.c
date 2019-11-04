@@ -1,4 +1,4 @@
-#include "servo.h"
+#include "../include/servo.h"
 
 void change_position(int pos) {
 
